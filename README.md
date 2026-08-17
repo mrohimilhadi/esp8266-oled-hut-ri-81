@@ -31,7 +31,7 @@ The OLED graphic was designed using Lopaka, with consideration for the limited r
 
 The design was converted into a format suitable for rendering on the OLED using the ESP8266.
 ## Photo Results
-![Photo Results](Projek%Oled%HUT%RI%81.jpeg)
+![](Projek%Oled%HUT%RI%81.jpeg)
 
 ### Design Preview
 

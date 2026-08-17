@@ -30,12 +30,12 @@ This project was created as a small experiment in embedded systems, OLED graphic
 The OLED graphic was designed using Lopaka, with consideration for the limited resolution of the display.
 
 The design was converted into a format suitable for rendering on the OLED using the ESP8266.
-## Result Photo
-![Documentation](projek%Oled%HUT%RI%81.jpg)
+## Photo Results
+![Photo Results](Projek Oled HUT RI 81.jpeg)
 
 ### Design Preview
 
-![Lopaka Design](design.Lopaka.png)
+![](design.Lopaka.png)
 
 ## Project Preview
 
